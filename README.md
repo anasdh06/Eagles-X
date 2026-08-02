@@ -1,7 +1,7 @@
-Eagles Dos Tool
+Eagles-X
 =============
 
-Eagles DoS tool ported to Go language from Python. 
+Eagle-X ported to Go language from Python. 
 
 The main difference from Python version layed in Golang architecture for concurrency: the goroutines. eagles.py runs
 a new thread for each connection in the connection pool so it uses hundreds and thousands of threads. 
